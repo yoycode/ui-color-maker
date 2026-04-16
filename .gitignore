@@ -39,6 +39,9 @@ yarn-error.log*
 # EasyNext
 .easynext
 
+# OMC state
+.omc/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
